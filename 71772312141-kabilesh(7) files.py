@@ -22,3 +22,7 @@ while True :
    if age < 25 and bloodtype == 2 :
     print(nam, address, age, bloodtype)
 f.close() 
+output:
+Rahul Ramnagar 23 2
+Riddhi Dharampeth 22 2
+Mangal Ramdaspeth 21 2
