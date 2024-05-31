@@ -11,3 +11,6 @@ while i < num :
 data = f.readline( )
 print('Num =', num, 'Name =', data)
 f.close( )
+output:
+Enter student number: 4
+Num = 4 Name = Rahul
