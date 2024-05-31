@@ -26,3 +26,31 @@ for item in sdata :
 fm.close( )
 ft.close( )
 fp.close( )
+output:
+'master.txt' contains following records:
+A101 Sanjay
+A102 Ajay
+A103 Anuja
+A104 Akhil
+A105 Bhushan
+A106 Ankit
+A107 Vivek
+A108 Ankita
+A109 Aditi
+A110 Harsha
+'tran.txt' contains following records:
+A101 D
+A105 D
+A112 Dheeraj A
+A105 Dilip A
+'processed.txt' contains following records after additions and deletions:
+A102 Ajay
+A103 Anuja
+A104 Akhil
+A105 Dilip
+A106 Ankit
+A107 Vivek
+A108 Ankita
+A109 Aditi
+A110 Harsha
+A112 Dheeraj
