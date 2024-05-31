@@ -7,4 +7,11 @@ while True :
   data = data.upper( )
   f2.write(data)
 f1.close( )
-f2.close( 
+f2.close( )
+output:
+SANJAY 25
+SAMEER 30
+ANIL 23
+SURESH 33
+PRABHU 22
+RAKESH 25
