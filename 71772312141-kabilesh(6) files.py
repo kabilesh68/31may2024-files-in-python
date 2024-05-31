@@ -22,3 +22,5 @@ json.dump(e, f, default = encode_employee)
 f.seek(0)
 ine = json.load(f, object_hook = decode_employee)
 print(ine)
+output:
+['A101', 'Sameer', '17/11/2017', 25000]
